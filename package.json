@@ -1,0 +1,26 @@
+{
+  "name": "inline-io",
+  "version": "0.1.0",
+  "description": "replaces link tags with inline style tags",
+  "main": "lib/inline.js",
+  "author": "coderaiser",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "style",
+    "inline"
+  ],
+  "dependencies": {
+    "cheerio": "git://github.com/cheeriojs/cheerio",
+    "util-io": "~1.2.2",
+    "pipe-io": "~0.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderaiser/inline-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coderaiser/inline-io/issues"
+  },
+  "homepage": "https://github.com/coderaiser/inline-io"
+}
