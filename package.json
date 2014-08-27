@@ -12,8 +12,9 @@
   ],
   "dependencies": {
     "cheerio": "~0.17.0",
-    "util-io": "~1.2.2",
-    "pipe-io": "~0.9.3"
+    "files-io": "^1.1.0",
+    "pipe-io": "~0.9.3",
+    "util-io": "~1.2.2"
   },
   "repository": {
     "type": "git",
