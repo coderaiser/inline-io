@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "checkup": "~1.0.2",
-    "cheerio": "~0.17.0",
+    "cheerio": "~0.18.0",
     "files-io": "~1.2.1"
   },
   "repository": {
