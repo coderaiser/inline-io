@@ -1,0 +1,11 @@
+2014.11.27, v0.1.3
+
+feature:
+- (package) cheerio v0.18
+- (package) files-io v1.2.1
+- (inline) util-io -> checkup
+- (package) v0.1.2
+- (package) ^ -> ~
+- (package) util-io v1.3.0
+- (files) files -> files-io
+
