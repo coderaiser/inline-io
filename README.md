@@ -19,7 +19,7 @@ Usage: inline-io <file>
 ### As module
 
 ```
-npm i instal-io
+npm i instal-io --save
 ```
 
 ```js
