@@ -3,12 +3,7 @@
 (function() {
     'use strict';
     
-    var inline      = require('..'),
-        
-        fs          = require('fs'),
-        path        = require('path'),
-        
-        argv        = process.argv.slice(2),
+    var argv        = process.argv.slice(2),
         arg         = argv[0];
     
     if (/^(-v|--version)$/.test(arg))
@@ -19,6 +14,10 @@
         main(arg);
     
     function main(name) {
+        var inline      = require('..'),
+            fs          = require('fs'),
+            path        = require('path');
+        
         fs.readFile(name, 'utf8', function(error, data) {
             var dir = path.dirname(name);
             
