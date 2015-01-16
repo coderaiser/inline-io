@@ -5,10 +5,22 @@ Replaces link tags with inline style tags.
 ## Install
 
 ```
-npm install inline-io
+npm i inline-io -g
 ```
 
 ## Use
+
+### As standalone
+
+```
+Usage: inline-io <file>
+```
+
+### As module
+
+```
+npm i instal-io
+```
 
 ```js
 var inline  = require('inline-io'),
