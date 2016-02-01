@@ -1,6 +1,6 @@
 {
   "name": "inline-io",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "replaces link tags with inline style tags",
   "main": "lib/inline.js",
   "bin": {
