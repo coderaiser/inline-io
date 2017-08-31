@@ -1,3 +1,12 @@
+2017.08.31, v0.2.6
+
+fix:
+- chore(test) test -> fixture
+
+feature:
+- (package) cheerio v1.0.0-rc.2
+
+
 2016.08.29, v0.2.5
 
 feature:
